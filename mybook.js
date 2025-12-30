@@ -15,7 +15,7 @@ cancelbook.addEventListener("click",function(event){
 var holebook=document.querySelector(".hole_book")
 var addbook=document.getElementById("add_book")
 var booknameid=document.getElementById("book_name_id")
-var bookaurtornameid=document.getElementById("book_aurtogit config --global user.namer_name_id")
+var bookaurtornameid=document.getElementById("book_aurtor_name_id")
 var discripionid=document.getElementById("discripion_id")
 addbook.addEventListener("click",function(event){
     event.preventDefault()
